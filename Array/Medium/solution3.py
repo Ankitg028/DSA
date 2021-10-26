@@ -1,3 +1,4 @@
+#Anti-Clockwise Direction
 def rotateArray(arr,start,end):
     while(start<end):
         temp = arr[start]
